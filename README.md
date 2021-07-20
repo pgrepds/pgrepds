@@ -8,3 +8,5 @@ Besides my scientific work, I implement a lot of application software in various
 - My [PGP key](https://keys.openpgp.org/vks/v1/by-fingerprint/C598A64FB17298B6F31DB7F862EA240EFF8732AE) 
 
 Fingerprint C598 A64F B172 98B6 F31D  B7F8 62EA 240E FF87 32AE (also hidden in my profile picture somewhere)
+
+All my content will from now on be signed using a gpg subkey associated with the above  public key (20.07.2021).
