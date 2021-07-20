@@ -2,7 +2,7 @@
 
 I am a researcher in the field of graph theory. My research interests lie in chromatic- and structural graph theory, mostly on the structure of graphs with certain forbidden induced subgraphs. 
 
-Besides my scientific work, I implement a lot of application software in various projects and getting increasingly involved in cybersecurity. I am a big advocate of free software and would like to get more involved in the open source community. 
+Besides my scientific work, I implement a lot of application software in various different projects and getting increasingly involved in cybersecurity. I am a big advocate of free software and would like to get more involved in the open source community. 
 
 - I'm on [Keybase](https://keybase.io/pgrepds)
 - My [PGP key](https://keys.openpgp.org/vks/v1/by-fingerprint/C598A64FB17298B6F31DB7F862EA240EFF8732AE) 
