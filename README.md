@@ -11,4 +11,3 @@ Fingerprint C598 A64F B172 98B6 F31D  B7F8 62EA 240E FF87 32AE (also h
 
 All my content will from now on be signed using a pgp subkey associated with the above  public key (20.07.2021).
 
-I have recently developed a little tool which enables me to tweet via the command line and signs all my tweets using my PGP key. The signature is then published along with the plain text to my public jsonbin collection, thus the authenticity for all my tweets can be verified. The collection  can be fetched using the id  **60f9bc2fa917050205cde0a4**. The API is described on the [jsonbin website](https://jsonbin.io/api-reference/v3/collections/bins). The tool is available in [this repository](https://github.com/pgrepds/twitter-signer).
