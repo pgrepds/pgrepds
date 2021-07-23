@@ -9,5 +9,4 @@ Besides my scientific work, I implement a lot of application software in various
 
 Fingerprint C598 A64F B172 98B6 F31D  B7F8 62EA 240E FF87 32AE (also hidden in my profile picture somewhere)
 
-All my content will from now on be signed using a pgp subkey associated with the above  public key (20.07.2021).
 
