@@ -1,4 +1,4 @@
-### Hi there <img src="https://github.com/pgrepds/pgrepds/blob/wave/wave.gif" width="30px">
+### Hi there <img src="https://github.com/pgrepds/pgrepds/blob/main/wave.gif?raw=True" width="30px">
 
 I am a researcher in the field of graph theory. My research interests lie in chromatic- and structural graph theory, mostly on the structure of graphs with certain forbidden induced subgraphs. 
 
