@@ -17,8 +17,6 @@ Fingerprint C598 A64F B172 98B6 F31D  B7F8 62EA 240E FF87 32AE
 - Algorithm Design (mostly for graph generation)
 - Computational Mathematics
 
-Occasionally I get distracted by group and galois theory. However, I am far from actually doing research in these two areas.
-
 ## Miscellaneous
 
 In my spare time I am very interested in group theory and the computer algebra system SageMath which I use on a daily basis.
