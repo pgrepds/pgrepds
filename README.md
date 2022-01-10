@@ -23,6 +23,6 @@ Occasionally I get distracted by group and galois theory. However, I am far from
 
 In my spare time I am very interested in group theory and the computer algebra system SageMath which I use on a daily basis.
 
-I've started participating regularly in [Project Euler](https://projecteuler.net). It's a fun way to combine math with programming.
+I've started participating regularly in [Project Euler](https://projecteuler.net). It offers a fun way to combine math with programming.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pgrepds&theme=onedark&show_icons=true)
