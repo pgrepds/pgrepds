@@ -14,7 +14,7 @@ Fingerprint C598 A64F B172 98B6 F31D  B7F8 62EA 240E FF87 32AE
 ## Research Interests
 
 - Structural- and Chromatic Graph Theory
-- Algorithm Design (mostly for graph generation)
+- Algorithm Design
 - Computational Mathematics
 
 ## Miscellaneous
