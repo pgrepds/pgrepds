@@ -4,7 +4,7 @@ I am a Ph.D. candidate in the field of graph theory at the University of Cologne
 
 My research interests lie in chromatic- and structural graph theory, mostly on the structure of graphs with certain forbidden induced subgraphs. In particular I am interested in the chi-boundedness of graphs, what structural relationships make a graph chi-bounded and how an efficient algorithm for constructing an optimal colouring can be derived from this relationships.
 
-I am a big advocate of free software and would like to get more involved in the open source community. I currently work a lot with the Julia programming language and plan to contribute to some of the Julia packages, especially in the area of graph theory and combinatorics.
+I am a big advocate of free software and would like to get more involved in the open source community. I currently work a lot with the [Julia](https://julialang.org/) programming language and plan to contribute to some of the Julia packages, especially in the area of graph theory and combinatorics.
 
 ## Research Interests
 
