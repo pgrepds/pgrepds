@@ -26,3 +26,5 @@ Email: david.scholz@pgrepds.io
 - My [PGP key](https://keys.openpgp.org/vks/v1/by-fingerprint/C598A64FB17298B6F31DB7F862EA240EFF8732AE) 
 
 Fingerprint C598 A64F B172 98B6 F31D  B7F8 62EA 240E FF87 32AE
+
+<a href="https://stackexchange.com/users/20327358?theme=dark"><img src="https://stackexchange.com/users/flair/20327358.png" width="208" height="58" alt="profile for David Scholz on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for David Scholz on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
