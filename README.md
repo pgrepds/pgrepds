@@ -27,4 +27,6 @@ Email: david.scholz@pgrepds.io
 
 Fingerprint C598 A64F B172 98B6 F31D  B7F8 62EA 240E FF87 32AE
 
-<a href="https://stackexchange.com/users/20327358"><img src="https://stackexchange.com/users/flair/20327358.png?theme=dark" width="208" height="58" alt="profile for David Scholz on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for David Scholz on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+<a href="https://twitter.com/pgrepds">
+    <img src="assets/twitter-brands.svg" alt="Twitter" height="50"/>
+</a>
