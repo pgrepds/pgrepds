@@ -28,5 +28,5 @@ Email: david.scholz@pgrepds.io
 Fingerprint C598 A64F B172 98B6 F31D  B7F8 62EA 240E FF87 32AE
 
 
-<a href="https://www.twitter.com/pgrepds"><img src="assets/twitter-brands.svg#gh-light-mode-only" align="left" height="50" width="50" ></a><img src="assets/twitter-brands-nox.svg#gh-dark-mode-only" align="left" height="50" width="50" >
+<img src="assets/twitter-brands.svg#gh-light-mode-only" align="left" height="50" width="50" ><a href="https://www.twitter.com/pgrepds"></a></img><img src="assets/twitter-brands-nox.svg#gh-dark-mode-only" align="left" height="50" width="50" >
 
