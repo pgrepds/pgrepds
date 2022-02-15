@@ -27,14 +27,14 @@ Email: david.scholz@pgrepds.io
 
 Fingerprint C598 A64F B172 98B6 F31D  B7F8 62EA 240E FF87 32AE
 
-<a href="https://math.stackexchange.com/users/869099/david-scholz/#gh-light-mode-only"><img src="assets/stack-exchange-brands.svg" align="left" height="50" width="50"></a><a href="https://math.stackexchange.com/users/869099/david-scholz/#gh-dark-mode-only"><img src="assets/stack-exchange-brands-nox.svg" align="left" height="50" width="50"></a>
+<a href="https://math.stackexchange.com/users/869099/david-scholz/#gh-light-mode-only"><img src="assets/stack-exchange-brands.svg" align="left" height="40" width="40"></a><a href="https://math.stackexchange.com/users/869099/david-scholz/#gh-dark-mode-only"><img src="assets/stack-exchange-brands-nox.svg" align="left" height="40" width="40"></a>
 
-<a href="https://www.twitter.com/pgrepds/#gh-light-mode-only"><img src="assets/twitter-brands.svg" align="left" height="50" width="50"></a><a href="https://www.twitter.com/pgrepds/#gh-dark-mode-only"><img src="assets/twitter-brands-nox.svg" align="left" height="50" width="50"></a>
+<a href="https://www.twitter.com/pgrepds/#gh-light-mode-only"><img src="assets/twitter-brands.svg" align="left" height="40" width="40"></a><a href="https://www.twitter.com/pgrepds/#gh-dark-mode-only"><img src="assets/twitter-brands-nox.svg" align="left" height="40" width="40"></a>
 
-<a href="https://www.linkedin.com/in/david-scholz-ba6b221a6/#gh-light-mode-only"><img src="assets/linkedin-brands.svg" align="left" height="50" width="50"></a><a href="https://www.linkedin.com/in/david-scholz-ba6b221a6/#gh-dark-mode-only"><img src="assets/linkedin-brands-nox.svg" align="left" height="50" width="50"></a>
+<a href="https://www.linkedin.com/in/david-scholz-ba6b221a6/#gh-light-mode-only"><img src="assets/linkedin-brands.svg" align="left" height="40" width="40"></a><a href="https://www.linkedin.com/in/david-scholz-ba6b221a6/#gh-dark-mode-only"><img src="assets/linkedin-brands-nox.svg" align="left" height="40" width="40"></a>
 
-<a href="https://www.researchgate.net/profile/David-Scholz-4/#gh-light-mode-only"><img src="assets/researchgate-brands.svg" align="left" height="50" width="50"></a><a href="https://www.researchgate.net/profile/David-Scholz-4/#gh-dark-mode-only"><img src="assets/researchgate-brands-nox.svg#gh-dark-mode-only" align="left" height="50" width="50"></a>
+<a href="https://www.researchgate.net/profile/David-Scholz-4/#gh-light-mode-only"><img src="assets/researchgate-brands.svg" align="left" height="40" width="40"></a><a href="https://www.researchgate.net/profile/David-Scholz-4/#gh-dark-mode-only"><img src="assets/researchgate-brands-nox.svg#gh-dark-mode-only" align="left" height="40" width="40"></a>
 
-<a href="https://orcid.org/0000-0003-0135-3249/#gh-light-mode-only"><img src="assets/orcid-brands.svg" align="left" height="50" width="50"></a><a href="https://orcid.org/0000-0003-0135-3249/#gh-dark-mode-only"><img src="assets/orcid-brands-nox.svg#gh-dark-mode-only" align="left" height="50" width="50"></a>
+<a href="https://orcid.org/0000-0003-0135-3249/#gh-light-mode-only"><img src="assets/orcid-brands.svg" align="left" height="40" width="40"></a><a href="https://orcid.org/0000-0003-0135-3249/#gh-dark-mode-only"><img src="assets/orcid-brands-nox.svg#gh-dark-mode-only" align="left" height="40" width="40"></a>
 
-<a href="https://scholar.google.com/citations?user=David-Scholz-4/#gh-light-mode-only"><img src="assets/google-scholar.svg" align="left" height="50" width="50"></a><a href="https://scholar.google.com/citations?user=David-Scholz-4/#gh-dark-mode-only"><img src="assets/google-scholar-nox.svg#gh-dark-mode-only" align="left" height="50" width="50"></a>
+<a href="https://scholar.google.com/citations?user=David-Scholz-4/#gh-light-mode-only"><img src="assets/google-scholar.svg" align="left" height="40" width="40"></a><a href="https://scholar.google.com/citations?user=David-Scholz-4/#gh-dark-mode-only"><img src="assets/google-scholar-nox.svg#gh-dark-mode-only" align="left" height="40" width="40"></a>
