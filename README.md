@@ -38,5 +38,7 @@ Fingerprint C598 A64F B172 98B6 F31D  B7F8 62EA 240E FF87 32AE
 <a href="https://orcid.org/0000-0003-0135-3249/#gh-light-mode-only"><img src="assets/orcid-brands.svg" align="left" height="40" width="40"></a><a href="https://orcid.org/0000-0003-0135-3249/#gh-dark-mode-only"><img src="assets/orcid-brands-nox.svg#gh-dark-mode-only" align="left" height="40" width="40"></a>
 
 <a href="https://scholar.google.com/citations?user=David-Scholz-4/#gh-light-mode-only"><img src="assets/google-scholar.svg" align="left" height="40" width="40"></a><a href="https://scholar.google.com/citations?user=David-Scholz-4/#gh-dark-mode-only"><img src="assets/google-scholar-nox.svg#gh-dark-mode-only" align="left" height="40" width="40"></a>
-<br>
+
+<br/><br/>
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z7BCEP0)
