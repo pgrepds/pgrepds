@@ -4,7 +4,7 @@ I am a Ph.D. candidate in the field of graph theory at the University of Cologne
 
 My research interests lie in chromatic- and structural graph theory, mostly on the structure of graphs with certain forbidden induced subgraphs. In particular I am interested in the chi-boundedness of graphs, what structural relationships make a graph chi-bounded and how an efficient algorithm for constructing an optimal colouring can be derived from this relationships.
 
-I am a big advocate of free software and would like to get more involved in the open source community. I currently work a lot with the [Julia](https://julialang.org/) programming language and plan to contribute to some of the Julia packages, especially in the area of graph theory and combinatorics.
+I am a big advocate of free software and would like to get more involved in the open source community. I currently work a lot with the [Julia](https://julialang.org/) programming language and I plan to contribute to some of the Julia packages, especially in the area of graph theory and combinatorics.
 
 ## Research Interests
 
@@ -14,7 +14,7 @@ I am a big advocate of free software and would like to get more involved in the 
 
 ## Miscellaneous
 
-In my spare free time I am very interested in group theory, combinatorics and the computer algebra system SageMath which I use on a daily basis. I started a [blog](https://blog.pgrepds.io/) where I want to write about various different topics, but mainly mathematical and software related.
+In my spare free time I am very interested in group theory, combinatorics and the computer algebra system SageMath which I use on a daily basis. I started a [blog](https://blog.pgrepds.io/) where I want to write about various different topics, but mainly focused mathematics and software engineering.
 
 I participate regularly in [Project Euler](https://projecteuler.net) and I might discuss some of the problems in the future (of course without violating the competition rules).
 
