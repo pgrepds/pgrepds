@@ -14,7 +14,7 @@ I am a big advocate of free software and would like to get more involved in the 
 
 ## Miscellaneous
 
-In my spare free time I am very interested in group theory, combinatorics and the computer algebra system SageMath which I use on a daily basis. I started a [blog](https://blog.pgrepds.io/) where I want to write about various different topics, but mainly focused mathematics and software engineering.
+In my spare free time I am very interested in group theory, combinatorics and the computer algebra system SageMath which I use on a daily basis. I started a [blog](https://blog.pgrepds.io/) where I want to write about various different topics, but it is mainly focused on mathematics and software engineering.
 
 I participate regularly in [Project Euler](https://projecteuler.net) and I might discuss some of the problems in the future (of course without violating the competition rules).
 
