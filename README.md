@@ -27,7 +27,7 @@ Email: david.scholz@pgrepds.io
 
 Fingerprint C598 A64F B172 98B6 F31D  B7F8 62EA 240E FF87 32AE
 
-<a href="https://math.stackexchange.com/users/869099/david-scholz/#gh-light-mode-only"><img src="assets/stack-exchange-brands.svg" align="left" height="40" width="40"></a><a href="https://math.stackexchange.com/users/869099/david-scholz/#gh-dark-mode-only"><img src="assets/stack-exchange-brands-nox.svg" align="left" height="40" width="40"></a>
+<a href="https://stackoverflow.com/users/14969281/david-scholz?tab=profile/#gh-light-mode-only"><img src="assets/stack-exchange-brands.svg" align="left" height="40" width="40"></a><a href="https://stackoverflow.com/users/14969281/david-scholz?tab=profile/#gh-dark-mode-only"><img src="assets/stack-exchange-brands-nox.svg" align="left" height="40" width="40"></a>
 
 <a href="https://www.twitter.com/pgrepds/#gh-light-mode-only"><img src="assets/twitter-brands.svg" align="left" height="40" width="40"></a><a href="https://www.twitter.com/pgrepds/#gh-dark-mode-only"><img src="assets/twitter-brands-nox.svg" align="left" height="40" width="40"></a>
 
