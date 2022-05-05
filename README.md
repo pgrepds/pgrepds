@@ -27,7 +27,7 @@ Email: david.scholz@pgrepds.io
 
 Fingerprint C598 A64F B172 98B6 F31D  B7F8 62EA 240E FF87 32AE
 
-<a href="https://stackoverflow.com/users/14969281/david-scholz?tab=profile/#gh-light-mode-only"><img src="assets/stack-exchange-brands.svg" align="left" height="40" width="40"></a><a href="https://stackoverflow.com/users/14969281/david-scholz?tab=profile/#gh-dark-mode-only"><img src="assets/stack-exchange-brands-nox.svg" align="left" height="40" width="40"></a>
+<a href="https://stackoverflow.com/users/14969281/david-scholz?tab=profile/#gh-light-mode-only"><img src="assets/stack-overflow-brands.svg" align="left" height="40" width="40"></a><a href="https://stackoverflow.com/users/14969281/david-scholz?tab=profile/#gh-dark-mode-only"><img src="assets/stack-overflow-brands-nox.svg" align="left" height="40" width="40"></a>
 
 <a rel="me" href="https://fosstodon.org/@pgrepds/#gh-light-mode-only"><img src="assets/mastodon-brands.svg" align="left" height="40" width="40"></a><a rel="me" href="https://fosstodon.org/@pgrepds/#gh-dark-mode-only"><img src="assets/mastodon-brands-nox.svg" align="left" height="40" width="40"></a>
 
