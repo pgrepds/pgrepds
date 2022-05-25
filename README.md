@@ -15,7 +15,7 @@ Last but not least, I am a big advocate of free software and work a lot with the
 
 ## Miscellaneous
 
-In my spare free time I am very interested in software engineering, combinatorics and group theory. I started a [blog](https://blog.pgrepds.io/) where I want to write about various different topics, but it is mainly focused on mathematics and software engineering.
+In my spare free time I am very interested in software engineering, combinatorics and group theory. I maintain a [blog](https://blog.pgrepds.io/) where I write about various different topics, but it is mainly focused on mathematics and software engineering.
 
 I participate regularly in [Project Euler](https://projecteuler.net) and I might discuss some of the problems in the future (of course without violating the competition rules).
 
