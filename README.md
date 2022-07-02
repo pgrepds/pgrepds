@@ -10,7 +10,7 @@ Last but not least, I am a big advocate of free software and work a lot with the
 
 ## Research Interests
 
-- chromatic- and Structural Graph Theory
+- Chromatic- and Structural Graph Theory
 - Graph Algorithms (graph colouring, graph recognition, graph generation, ...)
 
 ## Miscellaneous
