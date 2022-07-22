@@ -26,7 +26,7 @@ Email: david.scholz@pgrepds.io
 - I'm on [Keyoxide](https://keyoxide.org/62EA240EFF8732AE)
 - My [PGP key](https://keys.openpgp.org/vks/v1/by-fingerprint/C598A64FB17298B6F31DB7F862EA240EFF8732AE) 
 
-Fingerprint C598 A64F B172 98B6 F31D  B7F8 62EA 240E FF87 32AE
+Fingerprint C598 A64F B172 98B6 F31D B7F8 62EA 240E FF87 32AE
 
 <a href="https://stackoverflow.com/users/14969281/david-scholz?tab=profile/#gh-light-mode-only"><img src="assets/stack-overflow-brands.svg" align="left" height="40" width="40"></a><a href="https://stackoverflow.com/users/14969281/david-scholz?tab=profile/#gh-dark-mode-only"><img src="assets/stack-overflow-brands-nox.svg" align="left" height="40" width="40"></a>
 
