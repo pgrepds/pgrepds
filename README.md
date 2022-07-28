@@ -15,13 +15,13 @@ Last but not least, I am a big advocate of free software and work a lot with the
 
 ## Miscellaneous
 
-In my spare free time I am very interested in software engineering, combinatorics and group theory. I maintain a [blog](https://blog.pgrepds.io/) where I write about various different topics, but it is mainly focused on mathematics and software engineering.
+In my spare free time I am very interested in software engineering, combinatorics and group theory. I maintain a [blog](https://blog.pgrepds.dev/) where I write about various different topics, but it is mainly focused on mathematics and software engineering.
 
 I participate regularly in [Project Euler](https://projecteuler.net) and I might discuss some of the problems in the future (of course without violating the competition rules).
 
 The preferred way to contact me is via email using PGP encryption. I uploaded my key to the OpenPGP keyserver. I encourage you to verify the fingerprint of this key using some other communication channel than this GitHub account, e.g. via keyoxide.
 
-Email: david.scholz@pgrepds.io
+Email: david.scholz@pgrepds.dev
 
 - I'm on [Keyoxide](https://keyoxide.org/62EA240EFF8732AE)
 - My [PGP key](https://keys.openpgp.org/vks/v1/by-fingerprint/C598A64FB17298B6F31DB7F862EA240EFF8732AE) 
