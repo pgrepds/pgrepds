@@ -67,6 +67,5 @@ jobs:
           plugin_stackoverflow_limit: 3
           plugin_stackoverflow_lines: 4
           plugin_stackoverflow_lines_snippet: 2
-          plugin_stackoverflow_sections: answers-top
           plugin_stackoverflow_user: 14969281
           repositories_forks: yes
