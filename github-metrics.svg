@@ -2737,7 +2737,7 @@ Here is a minimal working example and the corresponding snack.
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 4.46m out of 120m users</span>
+                                    <span class="gh">ranked 4.46m out of 122m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">13</div>
                                     </div>
@@ -2827,7 +2827,7 @@ Here is a minimal working example and the corresponding snack.
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 812k out of 120m users</span>
+                                    <span class="gh">ranked 812k out of 122m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">16</div>
                                     </div>
@@ -3130,7 +3130,7 @@ Here is a minimal working example and the corresponding snack.
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 Oct 2023, 12:04:15 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Oct 2023, 13:03:59 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
