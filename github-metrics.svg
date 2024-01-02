@@ -2748,7 +2748,7 @@ However, we could provide a custom header component and set a specific height th
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 4.60m out of 127m users</span>
+                                    <span class="gh">ranked 4.60m out of 125m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">13</div>
                                     </div>
@@ -2838,7 +2838,7 @@ However, we could provide a custom header component and set a specific height th
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 837k out of 127m users</span>
+                                    <span class="gh">ranked 837k out of 125m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">16</div>
                                     </div>
@@ -3141,7 +3141,7 @@ However, we could provide a custom header component and set a specific height th
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 2 Jan 2024, 09:04:16 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Jan 2024, 10:03:40 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
